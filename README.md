@@ -1,1 +1,2 @@
-# bf591-Finalproject
+# BF591-Finalproject
+ Data Visualization
